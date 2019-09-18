@@ -1,0 +1,3 @@
+Various ML algorithms to predict if war casuality was civilian or non-civilian. 
+K-fold, Leave One Out, and Three-tier scheme used
+Performance Metrics : Confusion Matrix, ROC Curve
